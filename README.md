@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Buscador de Cep - localhost](https://user-images.githubusercontent.com/92475408/158046150-c400f820-8213-4b40-a283-49d6193f0012.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
